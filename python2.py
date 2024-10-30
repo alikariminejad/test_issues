@@ -1,1 +1,1 @@
-new_python = "new new new"
+new_python = "im sorry i wanted to do this"
